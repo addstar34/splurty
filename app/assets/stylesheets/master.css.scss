@@ -106,3 +106,13 @@ h2 {
 	"New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", 
 	Georgia, serif;
 }
+
+h2 span {
+	font-family: 'monoidregular', sans-serif;
+	font-weight: bold;
+	color: #dddddd;
+}
+
+::selection {
+	background-color: #f84342;
+}
